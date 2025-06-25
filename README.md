@@ -2,7 +2,7 @@
 
 This project is a **React-based AI Image Generator** that converts **text prompts** into AI-generated images using the HuggingFace `Text-to-Image` model. Users can enter a text description, generate an image, and download it directly.
 
-![UI Preview](./screenshots/ui-preview.png)
+![UI Preview](./text-to-image/UI.png)
 
 ---
 
@@ -35,8 +35,8 @@ This project is a **React-based AI Image Generator** that converts **text prompt
 
 | UI Layout | Output Example |
 |----------|----------------|
-| ![UI]() | ![Output](./screenshots/output1.png) |
-| ![Output 2](./screenshots/output2.png) | ![Output 3](./screenshots/output3.png) |
+| ![UI]() | ![Output](./text-to-image/output1.png) |
+| ![Output 2](./text-to-image/output2.png) | ![Output 3](./text-to-image/output3.png) |
 
 > Make sure to place your screenshot images in a folder called `screenshots` in the root of your repo.
 
