@@ -35,18 +35,10 @@ This project is a **React-based AI Image Generator** that converts **text prompt
 
 | UI Layout | Output Example |
 |----------|----------------|
-| ![UI](./screenshots/ui-preview.png) | ![Output](./screenshots/output1.png) |
+| ![UI]() | ![Output](./screenshots/output1.png) |
 | ![Output 2](./screenshots/output2.png) | ![Output 3](./screenshots/output3.png) |
 
 > Make sure to place your screenshot images in a folder called `screenshots` in the root of your repo.
 
----
 
-## 🔐 Setup & Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/text-to-image-generation.git
-cd text-to-image-generation
 
